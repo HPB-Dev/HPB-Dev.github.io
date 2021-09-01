@@ -1,3 +1,6 @@
+[Home Page](https://hpbdev.cf) **>** [docs](https://hpbdev.cs/docs/base) **>** [Funzioni](https://hpbdev.cf/docs/Funzioni)<br>
+
+
 # HPB - Wiki
 
 ## Lista delle Funzioni
