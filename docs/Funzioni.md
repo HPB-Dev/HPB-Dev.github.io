@@ -1,4 +1,4 @@
-[Home Page](https://hpbdev.cf) **>** [docs](https://hpbdev.cs/docs/base) **>** [Funzioni](https://hpbdev.cf/docs/Funzioni)<br>
+[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>** [Funzioni](https://dev.hpbdev.cf/docs/Funzioni)<br>
 
 
 # HPB - Wiki
