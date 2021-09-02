@@ -52,9 +52,36 @@ Commento multi linea
 ## Definire il tipo delle Variabili
 PHP non ha bisogno che venga definito il tipo delle variabili come su java `int ciao` (Intero)<br>
 ma basta utilizzare i simboli
-```
+```php
 // Stringa:
 $var = 'CIAONE';
+// Intero:
+$var = 1234;
+// Decimale:
+$var = '1,1234';
+```
+
+## Fusione delle Variabili
+In PHP è possibile includere più variabili in una variabile
+```php
+$nome = 'Marco';
+$anni = 15;
+$cibo = 'pizza';
+
+$text = "$nome ha $anni anni e gli piace la $cibo";
+```
+Risultato: `Marco ha 15 anni e gli piace la pizza`<br>
+Come avrai notato non ho utilizzato `'` ma le `"` per Definire Definire variabile `$text`<br>
+Questo è perchè le variabili definite con `"` possono contenere altre variabili.<br>
+Ecco come sarebbe stato il codice usando solo `'`:
+```php
+$nome = 'Marco';
+$anni = 15;
+$cibo = 'pizza';
+
+$text = $nome . ' ha ' .$anni . ' anni e gli piace la ' . $cibo;
+```
+Come avrai notato è molto più scomodo!
 
 
 ## ;
@@ -68,7 +95,37 @@ $php = "PHP è bello"
 $sus = 1234
 ```
 
+## Condizioni
+### if ed else
+`if`, tradotto in italiano `se` è l'operazione base di PHP
+```
+$nome = 'Marco';
 
+if ($nome === 'Marco') {
+   echo "Ciao $nome!";
+} else {
+   echo 'Non ti conosco!';
+}
+```
+Analizziamo:<br>
+`if` Inizia l'istruzione se <br>
+`( )` Le condizioni devono stare dentro delle parentesi<br>
+`$nome` Parametro 1 della condizione<br>
+`'Marco'` Parametro 2 della condizione (ha le `'` poichè è una stringa)<br>
+`===` Operatore (`===` è case sensitive quindi distingue maiuscole dalle minuscole)
+`else` Istruziobi da fare se l'`if` si risulta falso
+
+## Operatori
+`==` Uguale<br>
+`===` Uguale (case sensitive)<br>
+`<` Minore<br>
+`>` Maggiore<br>
+`>=` Maggiore o uguale<br>
+`<=` Minore o uguale
+
+
+Sei pronto per programmare in HPB!<br>
+Dai uno sguardo a [questa](https://dev.hpbdev.cf/docs/Funzioni) wiki per iniziare!
 
 
 
