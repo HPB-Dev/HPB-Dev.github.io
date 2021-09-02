@@ -86,6 +86,17 @@ $lettore = leggi(<nome file + directory>); ;
 $lettore = leggi("test");
 ```
 
+### Funzione **`mail`**
+La funzione `mail` invia una mail da un indirizzo email usando php-mail
+Sintassi:
+```php
+// >> Mail <<
+// Sintassi Universale
+mail(<a>, <da>, <oggetto>, <messaggio>);
+
+// Applicazione
+mail("example@example.com", "test@amp.com", "oggetto", "Un messaggio a caso");
+```
 
 ### Funzione **`vuoto`** `*`
 La funzione `vuoto` verifica che una variabile non sia vuota
