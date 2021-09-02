@@ -1,7 +1,7 @@
-[Home Page](https://hpbdev.cf) **>** [docs](https://hpbdev.cf/docs/base)<br>
+[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base)<br>
 
 # Documentazione ufficiale
 
-[Funzioni](https://hpbdev.cf/docs/Funzioni)<br>
-[Integrazioni](https://hpbdev.cf/docs/Int)<br>
-[Pacchetti](https://hpbdev.cf/docs/pacchetti/index)
+[Funzioni](https://dev.hpbdev.cf/docs/Funzioni)<br>
+[Integrazioni](https://dev.hpbdev.cf/docs/Int)<br>
+[Pacchetti](https://dev.hpbdev.cf/docs/pacchetti/index)
