@@ -1,4 +1,4 @@
-[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>** [Funzioni](https://dev.hpbdev.cf/docs/Funzioni)<br>
+[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>** Funzioni<br>
 
 
 # HPB - Wiki
@@ -9,7 +9,7 @@
 
 ## Innovazione della build2
 Dalla `v1.0 build2` le funzioni di HPB saranno in una classe.<br>
-Per saperne di più leggi [questa pagina](https://hpbdev.cf/docs/Int)
+Per saperne di più leggi [questa pagina](https://dev.hpbdev.cf/docs/Int)
 
 ## ATTENZIONE!
 Ricordiamo che tutte le funzioni di HPB danno come risultato un `return` quindi per recuperare un risultato basterà impostare così il codice:<br>
