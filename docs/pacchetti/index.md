@@ -1,4 +1,4 @@
-[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>** [Pacchetti](https://dev.hpbdev.cf/docs/pacchettu/index)
+[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>** [Pacchetti](https://dev.hpbdev.cf/docs/pacchetti/index)
 
 # Pacchetti di HPB
 HPB, poichè strutturato (dalla `v1.0 build2 ALPHA`) in funzioni<br>
@@ -15,11 +15,11 @@ use hpb\Sus;
 `Sus` -> Nome della classe selezionata (del file)
 
 ## Pacchetti di HPB
-[`Main`](https://dev.hpbdev.cf/pkgs/main) -> *Include tutte le funzioni base di HPB*<br>
-[`MySQL`](https://dev.hpbdev.cf/pkgs/mysql) -> *Include l'interazione con MySQL*<br>
-[`Curl`](https://dev.hpbdev.cf/pkgs/curl) -> *Include l'integrazione di CUrl*<br>
-[`ShellOPT`](https://dev.hpbdev.cf/pkgs/shell) -> *Include l'integrazione con Shell (Linux - Ubuntu based)*<br>
-[`Apes`](https://dev.hpbdev.cf/pkgs/apes1) -> *Integrazione con l'automatismo Personalized Encrypt System*
+[`Main`](https://dev.hpbdev.cf/docs/pacchetti/main) -> *Include tutte le funzioni base di HPB*<br>
+[`MySQL`](https://dev.hpbdev.cf/docs/pacchetti/mysql) -> *Include l'interazione con MySQL*<br>
+[`Curl`](https://dev.hpbdev.cf/docs/pacchetti/curl) -> *Include l'integrazione di CUrl*<br>
+[`ShellOPT`](https://dev.hpbdev.cf/docs/pacchetti/shell) -> *Include l'integrazione con Shell (Linux - Ubuntu based)*<br>
+[`Apes`](https://dev.hpbdev.cf/docs/pacchetti/apes) -> *Integrazione con l'automatismo Personalized Encrypt System*
 
 ## Includere un pacchetto
 Per includere un pacchetto basta selezionarlo
