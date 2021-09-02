@@ -7,3 +7,5 @@ Gli **HPB Gits** sono dei file di esempio per HPB
 
 ## [Vai alla lista](https://dev.hpbdev.cf/gits/listAll)
 
+### [Crea un Git](https://dev.hpbdev.cf/raw/newGit)
+
