@@ -1,3 +1,5 @@
+[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>**  [Integrazione](https://dev.hpbdev.cf/docs/Int)
+
 # Includere HPB
 
 HPB è un file PHAR (PHp ARchive) che va aggiunto alla pagina con require (include è sconsigliato)
