@@ -2,7 +2,7 @@
 ### Nel sito ufficiale di HPB!
 
 ## Guide
-[Vai alle Guide](https://dev.hpbdev.cf/guide/)
+[Vai alle Guide](https://dev.hpbdev.cf/guide/index)
 
 ## Vai alla documentazione
 [Documentazione Ufficiale](https://dev.hpbdev.cf/docs/base)
