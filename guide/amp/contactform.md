@@ -43,3 +43,4 @@ $string = "Messaggio da: $nome $cognome - $email\n\nMessaggio: $text";
 $hpb->mail("contact@example.com", "example.mail.text@gmail.com", "Nuovo Messaggio!", $string);
 
 $hpb->reindirizzamento("done.php", "");
+```
