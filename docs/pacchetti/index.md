@@ -1,3 +1,5 @@
+[Home Page](https://dev.hpbdev.cf) **>** [docs](https://dev.hpbdev.cf/docs/base) **>** [Pacchetti](https://dev.hpbdev.cf/docs/pacchettu/index)
+
 # Pacchetti di HPB
 HPB, poichè strutturato (dalla `v1.0 build2 ALPHA`) in funzioni<br>
 ha bisogno di puntare e includere una funzione tramite `use`
