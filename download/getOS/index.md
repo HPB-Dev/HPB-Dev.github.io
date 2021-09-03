@@ -2,6 +2,6 @@
 
 # HPB - Trova il tuo OS
 
-Sus
+Susn
 
 <iframe src="https://mrw.it/">
