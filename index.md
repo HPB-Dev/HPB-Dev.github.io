@@ -1,5 +1,5 @@
 # Benvenuto!
-### Nel sito ufficiale di HPB!
+Nel sito dei sviluppatori HPB (Ufficiale)
 
 ## Download
 [Scarica HPB](https://dev.hpbdev.cf/download/)
