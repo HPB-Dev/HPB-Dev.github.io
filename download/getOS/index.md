@@ -2,4 +2,4 @@
 
 # HPB - Trova il tuo OS
 
-<iframe src='https://api.hpbdev.cf/getOS'>
+<iframe src="http://api.hpbdev.cf/getOS">
