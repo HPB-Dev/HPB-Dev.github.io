@@ -25,4 +25,4 @@ Telegram: `@FoxWorn`
 
 ### Relations
 [API](https://api.hpbdev.cf/extwiew/)
-[Info e Storia](https://dev.hpbdev.cf/hpb
+[Info e Storia](https://dev.hpbdev.cf/hpb)
