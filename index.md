@@ -1,6 +1,9 @@
 # Benvenuto!
 ### Nel sito ufficiale di HPB!
 
+## Download
+[Scarica HPB](https://dev.hpbdev.cf/download/)
+
 ## Guide
 [Vai alle Guide](https://dev.hpbdev.cf/guide/index)
 
@@ -22,3 +25,4 @@ Telegram: `@FoxWorn`
 
 ### Relations
 [API](https://api.hpbdev.cf/extwiew/)
+[Info e Storia](https://dev.hpbdev.cf/hpb
