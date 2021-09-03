@@ -1,6 +1,9 @@
 # Benvenuto!
 Nel sito dei sviluppatori HPB (Ufficiale)
 
+## Introduzione a HPB
+[Vai all'Introduzione](https://dev.hpbdev.cf/intro/)
+
 ## Download
 [Scarica HPB](https://dev.hpbdev.cf/download/)
 
