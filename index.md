@@ -35,4 +35,4 @@ Telegram: `@FoxWorn`
 
 
 
-Italiano **|** [English](https://dev.hpbdev.cf/en/)
+Italiano **《》** [English](https://dev.hpbdev.cf/en/)
