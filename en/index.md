@@ -21,4 +21,4 @@ Welcome to the official documentations of HPB
 
 
 
-[Italiano](https://dev.hpbdev.cf/) **|** English
+[Italiano](https://dev.hpbdev.cf/) **《》** English
