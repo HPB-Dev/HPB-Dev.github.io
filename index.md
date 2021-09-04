@@ -29,3 +29,10 @@ Telegram: `@FoxWorn`
 ### Relations
 [API](https://api.hpbdev.cf/extwiew/)
 [Info e Storia](https://dev.hpbdev.cf/hpb)
+
+
+
+
+
+
+Italiano **|** [English](https://dev.hpbdev.cf/en/)
