@@ -11,4 +11,4 @@
 ### [Linux](https://api.hpbdev.cf/getHPB/linux)
 
 ## Non trovi il tuo OS?
-[Vai al TrovaOS](https://dev.hpbdev.cf/download/getOS/)
+[Vai al TrovaOS](https://api.hpbdev.cf/getOS)
