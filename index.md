@@ -51,6 +51,8 @@ $mysql = new MySQL();
 ```php
 $mysql->connetti("localhost", "admin", "password", "ilmioDB");
 ```
+## Vai ai tweet
+[Tweet Ufficiali](https://dev.hpbdev.cf/tweet)
 
 ## Forum Ufficiale
 [Forum Ufficiale](https://hpbdev.cf/forum/)
