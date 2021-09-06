@@ -2,7 +2,7 @@
 
 # Includere HPB
 
-HPB è un file PHAR (PHp ARchive) che va aggiunto alla pagina con require (include è sconsigliato)
+HPB è un file PHP che va aggiunto alla pagina con require (include è sconsigliato)
 
 ```php
 require_once("hpb.php");
