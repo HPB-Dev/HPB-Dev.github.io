@@ -13,12 +13,14 @@ use hpb\Main;
 $hpb = new Main;
 ```
 
-## Download
-[Scarica HPB](https://dev.hpbdev.cf/download/)
+## [Download](https://dev.hpbdev.cf/download/)
 
 ```php
 $hpb->stampa("Ciao Mondo!");
 ```
+
+## Notizie
+[Vai alle ultime notizie](https://dev.hpbdev.cf/news/)
 
 ## Guide
 [Vai alle Guide](https://dev.hpbdev.cf/guide/index)
