@@ -10,38 +10,9 @@ hpb.phar
  -▪︎manifest.identity.hpb
 ```
 
-## v 1.0 build3 ALPHA
-```
-hpb.phar
- -▪︎MainClass.php    -> hpb\Main
- -▪︎Curl.hpb         -> hpb\Curl
- -▪︎MySQL.php        -> hpb\MySQL
- -▪︎manifest.i-2.hpb
-```
-
-## v 1.0 build4 ALPHA
-```
-hpb.phar
- -▪︎MainClass.php    -> hpb\Main
- -▪︎Curl.php         -> hpb\Curl
- -▪︎MySQL.php        -> hpb\MySQL
- -▪︎ShellOPT.php     -> hpb\ShellOpt
- -▪︎Interp.php       -> hpb\Dev\Int       *(Only for developer!)*
- -▪︎manifest.hpb
-```
-
-## v1.0.2 BETA
-```
-hpb.phar
- -▪︎MainClass.hpb    -> hpb\Main
- -▪︎Curl.php         -> hpb\Curl
- -▪︎MySQL.php        -> hpb\MySQL
- -▪︎ShellOPT.php     -> hpb\ShellOpt
- -▪︎Interp.php       -> hpb\Dev\Int      *(Only for developer!)*
- -▪︎manifest.hpb
- -▪︎isAuth.hpb
- -▪︎api.hpbdev.cf.txt
-```
+## ⚠️ ATTENZIONE ⚠️
+### Dalla versione build v3 HPB sarà dentro molteplici file HPB (versione normale - più leggera) oppure in un unico file PHP
+### Per saperne di più leggi [questa pagina](https://dev.hpbdev.cf/news/06-09-2021-01)
 
 
 
